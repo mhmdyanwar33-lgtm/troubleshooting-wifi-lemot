@@ -10,3 +10,5 @@ Hasil Setelah dilakukan perbaikan:
 Koneksi lebih stabil,Ping menurun,User lebih nyaman
 Tools:
 Mikrotik (Winbox),Speedtest,Ping test
+https://github.com/<img width="1151" height="502" alt="WhatsApp Image 2026-04-15 at 08 41 19" src="https://github.com/user-attachments/assets/3162dabd-dc4f-407b-9012-1bca33b95886" />
+/repo/blob/main/winbox.png
